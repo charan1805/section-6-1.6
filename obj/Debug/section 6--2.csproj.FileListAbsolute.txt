@@ -1,0 +1,8 @@
+E:\my details\personal\c sharp\day14\section 6--2\bin\Debug\section 6--2.exe.config
+E:\my details\personal\c sharp\day14\section 6--2\bin\Debug\section 6--2.exe
+E:\my details\personal\c sharp\day14\section 6--2\bin\Debug\section 6--2.pdb
+E:\my details\personal\c sharp\day14\section 6--2\obj\Debug\section 6--2.csproj.AssemblyReference.cache
+E:\my details\personal\c sharp\day14\section 6--2\obj\Debug\section 6--2.csproj.SuggestedBindingRedirects.cache
+E:\my details\personal\c sharp\day14\section 6--2\obj\Debug\section 6--2.csproj.CoreCompileInputs.cache
+E:\my details\personal\c sharp\day14\section 6--2\obj\Debug\section 6--2.exe
+E:\my details\personal\c sharp\day14\section 6--2\obj\Debug\section 6--2.pdb
